@@ -1,0 +1,6 @@
+framework module Pods_WebSocket_WebSocketUITests {
+  umbrella header "Pods-WebSocket-WebSocketUITests-umbrella.h"
+
+  export *
+  module * { export * }
+}
